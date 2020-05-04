@@ -1,0 +1,51 @@
+{
+  "name": "everyday-task-board-frontend",
+  "description": "kanban-like task board for everyday and everyone",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nagaitakeyuki/everyday-task-board-frontend.git"
+  },
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.22.0",
+    "history": "4.7.2",
+    "moment": "^2.24.0",
+    "react": "^16.9.0",
+    "react-beautiful-dnd": "^11.0.5",
+    "react-dom": "^16.9.0",
+    "react-modal": "^3.9.1",
+    "react-redux": "5.0.7",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-router-redux": "5.0.0-alpha.9",
+    "react-scripts": "3.1.1",
+    "redux": "3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "proxy": "http://localhost:8080"
+}

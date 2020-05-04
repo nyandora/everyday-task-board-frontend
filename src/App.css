@@ -1,0 +1,4 @@
+body {
+    /* 中国系のフォントの優先順位をデフォルトより低く設定（'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB'） */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB';
+}

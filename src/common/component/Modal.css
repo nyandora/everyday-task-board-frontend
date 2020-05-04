@@ -1,0 +1,14 @@
+
+.standard-modal .ant-modal-content {
+  background-color: white;
+}
+
+.standard-modal .ant-modal-header {
+  background-color: white;
+  border-bottom: 1px solid white;
+}
+
+.standard--modal .ant-modal-footer {
+  background-color: white;
+  border-top: 1px solid white;
+}
